@@ -1,5 +1,6 @@
 {
     "updateAvailable": true,
+    "updateImage": "https://i.imgur.com/XcShs7a.png",
     "updateTitle": "Nueva Actualización Disponible",
     "updateDescription": "Hemos lanzado una nueva versión de la aplicación con mejoras y correcciones de errores.",
     "updateUrl": "https://misitio.com/descargar"
