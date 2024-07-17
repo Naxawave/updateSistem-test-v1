@@ -3,5 +3,7 @@
     "updateImage": "https://i.imgur.com/XcShs7a.png",
     "updateTitle": "Nueva Actualización Disponible",
     "updateDescription": "Hemos lanzado una nueva versión de la aplicación con mejoras y correcciones de errores.",
+    "updateDate": "17/07/2024",
+    "updateVersion": "1.0.0",
     "updateUrl": "#"
 }
