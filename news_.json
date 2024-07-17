@@ -1,0 +1,35 @@
+[
+  
+  {
+    "imgThumbnail": "https://robloxy.solarsite.cc/content/images/20240710150810-699ff289e8e1e3fa5f1d84a150728424832d15a4.gif",
+    "newsDate": "10/Jul/24",
+    "newsTitle": "Compras en la experiencia",
+    "newsDescription": "A través del Devforum se dio a conocer que ahora podremos comprar múltiples items en una sola transacción dentro de las experiencias, esto es mas que todo útil para aquellas experiencias que busquen vender todo un outfit de avatar en un solo click, por ejemplo: Catalog Avatar Creator",
+  
+    "links": [
+              "https://create.roblox.com/docs/es-es/reference/engine/classes/MarketplaceService#PromptBulkPurchase"
+            ]
+  },
+  
+  {
+    "imgThumbnail": "https://tr.rbxcdn.com/2f80257ba548d0fbee95da2183fa0d38/768/432/Image/Webp",
+    "newsDate": "6/Jul/24",
+    "newsTitle": "Hora de votar",
+    "newsDescription": "Roblox lanzo una experiencia donde se podran votar por las mejores experiencias de su categoría, puedes escojer y votar por tu juego favorito, y de recompensas puedes obtener varios objetos oara tu avatar.",
+  
+    "links": [
+            "https://www.roblox.com/games/17811009787/Roblox-Innovation-Awards-2024-Voting-Hub"
+          ]
+  },
+
+  {
+    "imgThumbnail": "https://i.imgur.com/4encGVS.png",
+    "newsDate": "6/Jul/24",
+    "newsTitle": "RDH ah actualizado",
+    "newsDescription": "Naxawave Group ha actualizado el sitio con más contenido y funciones de interactividad. Estamos mejorando el sitio y la app para todos los desarrolladores de Roblox Studio. :D",
+  
+    "links": [
+        "index.html"
+      ]
+  }
+]
