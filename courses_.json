@@ -1,0 +1,200 @@
+[
+  {
+    "imgThumbnail": "https://i.imgur.com/OMBqZud.jpeg",
+    "courseDescription": "Bienvenido a RDH, Un lugar donde los desarrolladores de roblox studio pueden aprender de una manera facil y gratis.",
+    "courseTitle": "Introducción a RDH",
+    "courseDifficult": "Fácil",
+    "courseDuration": "6 ",
+    "courseLessons": "2 ",
+    "courseLink": [
+      "courses/introduction"
+    ]
+  },
+  {
+    "imgThumbnail": "https://i.imgur.com/c0Ka9Lb.jpeg",
+    "courseDescription": "Aprende los conceptos básicos de Roblox Studio y cómo empezar a crear juegos en la plataforma.",
+    "courseTitle": "Introducción a Roblox Studio",
+    "courseDifficult": "Principiante",
+    "courseDuration": "17.5 ",
+    "courseLessons": "12 ",
+    "courseLink": [
+      "courses/introduction-to-roblox-studio"
+    ]
+  },
+  {
+    "imgThumbnail": "https://i.imgur.com/c0Ka9Lb.jpeg",
+    "courseDescription": "Curso introductorio a Lua, el lenguaje de scripting de Roblox, con aplicaciones prácticas en la creación de juegos.",
+    "courseTitle": "Programación Lua para Roblox",
+    "courseDifficult": "Intermedio",
+    "courseDuration": "27 ",
+    "courseLessons": "18 ",
+    "courseLink": [
+      "#"
+    ]
+  },
+  {
+    "imgThumbnail": "https://i.imgur.com/c0Ka9Lb.jpeg",
+    "courseDescription": "Aprende a diseñar y crear modelos 3D personalizados para utilizar en tus juegos de Roblox.",
+    "courseTitle": "Creación de Modelos en Roblox Studio",
+    "courseDifficult": "Principiante",
+    "courseDuration": "3 ",
+    "courseLessons": "10 ",
+    "courseLink": [
+      "#"
+    ]
+  },
+  {
+    "imgThumbnail": "https://i.imgur.com/c0Ka9Lb.jpeg",
+    "courseDescription": "Explora técnicas avanzadas para crear y controlar animaciones dentro de Roblox Studio.",
+    "courseTitle": "Animaciones Avanzadas en Roblox",
+    "courseDifficult": "Avanzado",
+    "courseDuration": "5 ",
+    "courseLessons": "15 ",
+    "courseLink": [
+      "#"
+    ]
+  },
+  {
+    "imgThumbnail": "https://i.imgur.com/c0Ka9Lb.jpeg",
+    "courseDescription": "Aprende a integrar APIs externas para añadir funcionalidades adicionales y servicios a tus juegos en Roblox.",
+    "courseTitle": "Integración de API en Juegos de Roblox",
+    "courseDifficult": "Intermedio",
+    "courseDuration": "4 ",
+    "courseLessons": "12 ",
+    "courseLink": [
+      "#"
+    ]
+  },
+  {
+    "imgThumbnail": "https://i.imgur.com/c0Ka9Lb.jpeg",
+    "courseDescription": "Mejora el rendimiento y la eficiencia de tus juegos de Roblox optimizando el uso de recursos.",
+    "courseTitle": "Optimización de Rendimiento en Roblox Studio",
+    "courseDifficult": "Avanzado",
+    "courseDuration": "3 ",
+    "courseLessons": "8 ",
+    "courseLink": [
+      "#"
+    ]
+  },
+  {
+    "imgThumbnail": "https://i.imgur.com/c0Ka9Lb.jpeg",
+    "courseDescription": "Diseña interfaces de usuario atractivas y funcionales para tus juegos en Roblox Studio.",
+    "courseTitle": "Diseño de Interfaz de Usuario en Roblox",
+    "courseDifficult": "Intermedio",
+    "courseDuration": "4 ",
+    "courseLessons": "10 ",
+    "courseLink": [
+      "#"
+    ]
+  },
+  {
+    "imgThumbnail": "https://i.imgur.com/c0Ka9Lb.jpeg",
+    "courseDescription": "Explora cómo implementar sistemas económicos y de monetización en tus juegos de Roblox.",
+    "courseTitle": "Introducción a la Economía en Juegos de Roblox",
+    "courseDifficult": "Principiante",
+    "courseDuration": "5 ",
+    "courseLessons": "14 ",
+    "courseLink": [
+      "#"
+    ]
+  },
+  {
+    "imgThumbnail": "https://i.imgur.com/c0Ka9Lb.jpeg",
+    "courseDescription": "Aprende a crear juegos con funcionalidades multijugador utilizando Roblox Studio.",
+    "courseTitle": "Desarrollo de Juegos Multijugador en Roblox",
+    "courseDifficult": "Intermedio",
+    "courseDuration": "6 ",
+    "courseLessons": "16 ",
+    "courseLink": [
+      "#"
+    ]
+  },
+  {
+    "imgThumbnail": "https://i.imgur.com/c0Ka9Lb.jpeg",
+    "courseDescription": "Implementa sistemas de IA para enemigos y NPCs en tus juegos de Roblox.",
+    "courseTitle": "Inteligencia Artificial en Roblox Studio",
+    "courseDifficult": "Avanzado",
+    "courseDuration": "5 ",
+    "courseLessons": "12 ",
+    "courseLink": [
+      "#"
+    ]
+  },
+  {
+    "imgThumbnail": "https://i.imgur.com/c0Ka9Lb.jpeg",
+    "courseDescription": "Aprende a proteger tus juegos y usuarios contra vulnerabilidades y ataques comunes.",
+    "courseTitle": "Seguridad en Juegos de Roblox",
+    "courseDifficult": "Intermedio",
+    "courseDuration": "4 ",
+    "courseLessons": "10 ",
+    "courseLink": [
+      "#"
+    ]
+  },
+  {
+    "imgThumbnail": "https://i.imgur.com/c0Ka9Lb.jpeg",
+    "courseDescription": "Explora técnicas para añadir efectos visuales y sonoros impactantes a tus juegos en Roblox.",
+    "courseTitle": "Creación de Efectos Especiales en Roblox Studio",
+    "courseDifficult": "Avanzado",
+    "courseDuration": "3 ",
+    "courseLessons": "8 ",
+    "courseLink": [
+      "#"
+    ]
+  },
+  {
+    "imgThumbnail": "https://i.imgur.com/c0Ka9Lb.jpeg",
+    "courseDescription": "Curso avanzado de scripting en Lua para crear sistemas complejos y personalizados en Roblox.",
+    "courseTitle": "Scripting Avanzado con Roblox Studio",
+    "courseDifficult": "Avanzado",
+    "courseDuration": "6 ",
+    "courseLessons": "20 ",
+    "courseLink": [
+      "#"
+    ]
+  },
+  {
+    "imgThumbnail": "https://i.imgur.com/c0Ka9Lb.jpeg",
+    "courseDescription": "Aprende a desarrollar juegos de rol completos con historias, personajes y mecánicas únicas en Roblox.",
+    "courseTitle": "Creación de Juegos de Rol (RPG) en Roblox",
+    "courseDifficult": "Intermedio",
+    "courseDuration": "5 ",
+    "courseLessons": "14 ",
+    "courseLink": [
+      "#"
+    ]
+  },
+  {
+    "imgThumbnail": "https://i.imgur.com/c0Ka9Lb.jpeg",
+    "courseDescription": "Aprende a utilizar y manipular audio para mejorar la experiencia del jugador en tus juegos de Roblox.",
+    "courseTitle": "Integración de Audio en Juegos de Roblox",
+    "courseDifficult": "Intermedio",
+    "courseDuration": "4 ",
+    "courseLessons": "12 ",
+    "courseLink": [
+      "#"
+    ]
+  },
+  {
+    "imgThumbnail": "https://i.imgur.com/c0Ka9Lb.jpeg",
+    "courseDescription": "Diseña y desarrolla herramientas personalizadas para facilitar el proceso de creación en Roblox Studio.",
+    "courseTitle": "Creación de Herramientas de Desarrollo en Roblox",
+    "courseDifficult": "Avanzado",
+    "courseDuration": "3 ",
+    "courseLessons": "10 ",
+    "courseLink": [
+      "#"
+    ]
+  },
+  {
+    "imgThumbnail": "https://i.imgur.com/c0Ka9Lb.jpeg",
+    "courseDescription": "Implementa técnicas de gamificación para aumentar la participación y retención de usuarios en tus juegos.",
+    "courseTitle": "Gamificación en Roblox Studio",
+    "courseDifficult": "Intermedio",
+    "courseDuration": "4 ",
+    "courseLessons": "12 ",
+    "courseLink": [
+      "#"
+    ]
+  }
+]
