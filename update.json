@@ -1,8 +1,8 @@
 {
-    "updateAvailable": false,
+    "updateAvailable": true,
     "updateImage": "https://i.imgur.com/XcShs7a.png",
-    "updateTitle": "Actualiza a la última versión.",
-    "updateDescription": "Esta actualización contiene correccion de errores graficos y funcionales",
+    "updateTitle": "¡Hola, bienvenido o bienvenida!",
+    "updateDescription": "¡Nos alegra q nos escojieras, haci que queremos lo mejor para ti!",
     "updateDate": "17/07/2024",
     "updateVersion": "1.0.3",
     "updateUrl": "#"
