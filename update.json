@@ -1,9 +1,9 @@
 {
-    "updateAvailable": false,
-    "updateImage": "https://i.imgur.com/XcShs7a.png",
-    "updateTitle": "¡Hola, bienvenido o bienvenida!",
-    "updateDescription": "¡Nos alegra q nos escojieras, haci que queremos lo mejor para ti!",
-    "updateDate": "17/07/2024",
-    "updateVersion": "1.0.3",
+    "updateAvailable": true,
+    "updateImage": "https://i.imgur.com/tXhK1Br.png",
+    "updateTitle": "¡Actualización disponible!",
+    "updateDescription": "Actualiza a la versión mas reciente disponible, una versión antigua puede generar incompatibilidad, actualize desde la app o desde el sitio oficial para evitar software malicioso.",
+    "updateDate": "18/07/2024",
+    "updateVersion": "1.0.5",
     "updateUrl": "#"
 }
