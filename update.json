@@ -1,8 +1,8 @@
 {
     "updateAvailable": true,
-    "updateImage": "https://i.imgur.com/tXhK1Br.png",
+    "updateImage": "https://i.imgur.com/Lvei0Vu.png",
     "updateTitle": "¡Actualización disponible!",
-    "updateDescription": "Actualiza a la versión mas reciente disponible, una versión antigua puede generar incompatibilidad, actualize desde la app o desde el sitio oficial para evitar software malicioso.",
+    "updateDescription": "Actualización requerida, nuevas funciones y corrección de errores.",
     "updateDate": "18/07/2024",
     "updateVersion": "1.0.5",
     "updateUrl": "#"
