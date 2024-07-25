@@ -1,9 +1,9 @@
 {
-    "updateAvailable": false,
+    "updateAvailable": true,
     "updateImage": "https://i.imgur.com/Lvei0Vu.png",
-    "updateTitle": "¡Actualización disponible!",
-    "updateDescription": "Actualización requerida, nuevas funciones y corrección de errores.",
-    "updateDate": "18/07/2024",
-    "updateVersion": "1.0.5",
+    "updateTitle": "¡Atencion!",
+    "updateDescription": "Ya que esta es una versión de prueba, el servicio de aviso de actualizaciones quedará inhabilitado, porfavor descarge e instale la nueva versión disponible de Hi!",
+    "updateDate": "14/07/2024",
+    "updateVersion": "1.2.6",
     "updateUrl": "#"
 }
